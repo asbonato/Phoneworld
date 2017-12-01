@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Phoneworld</string>
+    <string name="phone_hint">Digite a phoneworld</string>
+    <string name="phone_button">Ligar</string>
+</resources>
